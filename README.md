@@ -4,6 +4,9 @@ Created a very simple snake game to get a better understanding of Object Oriente
 
 # To Run
 Download the file and open it. 
+
 Follow Installation. 
+
 Once installed, run **main.exe**
+
 If you would like to move the executable file elsewhere, create a shortcut, and move the shortcut.
